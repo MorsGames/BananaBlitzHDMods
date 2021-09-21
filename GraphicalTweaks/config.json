@@ -53,5 +53,5 @@
     "Value": false,
     "Description": "Whether if the HUD should be hidden during gameplay or not.",
     "Category": "3 - HUD"
-  },
+  }
 }
